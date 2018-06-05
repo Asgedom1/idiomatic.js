@@ -1,0 +1,25 @@
+/if/else statment
+var name='Asgedom';
+var age=25;
+var isMarried='no';
+/*
+if(isMarried==='yes'){
+    console.log(name + ' Is marrid! ');
+    }else
+        {
+            console.log(name + ' will hopefully marry soon:');
+        }
+*/
+
+
+/*
+isMarried=false;
+
+if(isMarried){
+    console.log('Yes');
+}
+else{
+    console.log('No');
+}
+
+*/
